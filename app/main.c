@@ -1128,7 +1128,68 @@ void OLED_send_data(uint8_t cmd)
 
 void OLED_Init()
 {
-...
+    // Жесткий обязательный сброс перед запуском
+    GPIOB->DATAOUTSET = 1 << 4;//B4\RES высокий уровень
+
+    Delay_ms(100); // пауза
+    GPIOB->DATAOUTCLR = 1 << 4;//B4\RES низкий уровень
+    Delay_ms(100); // пауза
+    GPIOB->DATAOUTSET = 1 << 4;//B4\RES высокий уровень
+    Delay_ms(100);
+
+    OLED_send_command(0xFD); //SET COMMAND LOCK
+	OLED_send_data(0x12);//UNLOCK
+
+    OLED_send_command(0xAE);//Sleep mode ON
+
+	OLED_send_command(0xB3);//DISPLAY DIVIDE CLOCKRADIO/OSCILLATAR FREQUANCY
+	OLED_send_data(0x91);
+
+	OLED_send_command(0xCA);	//multiplex ratio
+	OLED_send_data(0x3F);   //duty = 1/64
+
+	OLED_send_command(0xA2);    //set offset
+    OLED_send_data(0x00);
+
+	OLED_send_command(0xA1);	//start line
+	OLED_send_data(0x00);
+
+	OLED_send_command(0xA0);  //set remap
+	OLED_send_data(0x14);
+	OLED_send_data(0x11);
+
+	OLED_send_command(0xAB);	//funtion selection
+	OLED_send_data(0x01);	//Enable internal VDD regulator
+
+	OLED_send_command(0xB4);
+	OLED_send_data(0xA0);
+	OLED_send_data(0xFD);
+
+	OLED_send_command(0xC1);	//set contrast current
+	OLED_send_data(0x01);
+
+	OLED_send_command(0xC7);	//master contrast current control
+	OLED_send_data(0x0F);
+
+	OLED_send_command(0xB1);	//SET PHASE LENGTH
+	OLED_send_data(0xE2);
+
+	OLED_send_command(0xD1);
+	OLED_send_data(0x82);
+	OLED_send_data(0x20);
+
+	OLED_send_command(0xBB);	//SET PRE-CHANGE VOLTAGE
+	OLED_send_data(0x1F);	//0.6*vcc
+
+	OLED_send_command(0xB6);	//SET SECOND PRE-CHARGE PERIOD
+	OLED_send_data(0x08);
+
+	OLED_send_command(0xBE);	//SET VCOMH
+	OLED_send_data(0x07);	//0.86*vcc
+
+	OLED_send_command(0xA6);	//normal display
+
+    OLED_send_command(0xAF);//Sleep Mode OFF
 }
 
 
