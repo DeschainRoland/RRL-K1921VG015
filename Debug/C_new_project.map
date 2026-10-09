@@ -1,0 +1,1058 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+                              ./platform/source/mtimer.o (__udivdi3)
+C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+                              C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o) (__clz_tab)
+C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memset.o)
+                              ./platform/source/sys_init.o (memset)
+C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+                              ./platform/source/sys_init.o (memcpy)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/mtimer.o
+ .text          0x00000000        0x0 ./platform/source/mtimer.o
+ .data          0x00000000        0x0 ./platform/source/mtimer.o
+ .bss           0x00000000        0x0 ./platform/source/mtimer.o
+ .text.mtimer_set_raw_time_cmp
+                0x00000000       0x84 ./platform/source/mtimer.o
+ .text.mtimer_get_raw_time
+                0x00000000       0x72 ./platform/source/mtimer.o
+ .text.sleep    0x00000000       0xd0 ./platform/source/mtimer.o
+ .text.usleep   0x00000000       0xd4 ./platform/source/mtimer.o
+ .debug_info    0x00000000      0x1ab ./platform/source/mtimer.o
+ .debug_abbrev  0x00000000       0xd3 ./platform/source/mtimer.o
+ .debug_aranges
+                0x00000000       0x38 ./platform/source/mtimer.o
+ .debug_rnglists
+                0x00000000       0x28 ./platform/source/mtimer.o
+ .debug_macro   0x00000000       0x72 ./platform/source/mtimer.o
+ .debug_macro   0x00000000      0x7ea ./platform/source/mtimer.o
+ .debug_macro   0x00000000       0x22 ./platform/source/mtimer.o
+ .debug_macro   0x00000000       0x8e ./platform/source/mtimer.o
+ .debug_macro   0x00000000       0x51 ./platform/source/mtimer.o
+ .debug_macro   0x00000000      0x103 ./platform/source/mtimer.o
+ .debug_macro   0x00000000       0x6a ./platform/source/mtimer.o
+ .debug_macro   0x00000000      0x1df ./platform/source/mtimer.o
+ .debug_macro   0x00000000       0x28 ./platform/source/mtimer.o
+ .debug_line    0x00000000      0x206 ./platform/source/mtimer.o
+ .debug_str     0x00000000     0x3938 ./platform/source/mtimer.o
+ .debug_line_str
+                0x00000000      0x281 ./platform/source/mtimer.o
+ .comment       0x00000000       0x13 ./platform/source/mtimer.o
+ .note.GNU-stack
+                0x00000000        0x0 ./platform/source/mtimer.o
+ .debug_frame   0x00000000       0xe8 ./platform/source/mtimer.o
+ .riscv.attributes
+                0x00000000       0x3d ./platform/source/mtimer.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/plic.o
+ .text          0x00000000        0x0 ./platform/source/plic.o
+ .bss           0x00000000        0x0 ./platform/source/plic.o
+ .text.SetIrqHandler
+                0x00000000       0x52 ./platform/source/plic.o
+ .text.PLIC_IntDisable
+                0x00000000       0x94 ./platform/source/plic.o
+ .debug_macro   0x00000000      0x7ea ./platform/source/plic.o
+ .debug_macro   0x00000000       0x22 ./platform/source/plic.o
+ .debug_macro   0x00000000       0x8e ./platform/source/plic.o
+ .debug_macro   0x00000000       0x51 ./platform/source/plic.o
+ .debug_macro   0x00000000      0x103 ./platform/source/plic.o
+ .debug_macro   0x00000000       0x6a ./platform/source/plic.o
+ .debug_macro   0x00000000      0x1df ./platform/source/plic.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/printf.o
+ .text          0x00000000        0x0 ./platform/source/printf.o
+ .data          0x00000000        0x0 ./platform/source/printf.o
+ .bss           0x00000000        0x0 ./platform/source/printf.o
+ .text.PrintChar
+                0x00000000       0x26 ./platform/source/printf.o
+ .data.r        0x00000000      0x120 ./platform/source/printf.o
+ .sdata._impure_ptr
+                0x00000000        0x4 ./platform/source/printf.o
+ .text.PutChar  0x00000000       0x2a ./platform/source/printf.o
+ .text.PutString
+                0x00000000       0x58 ./platform/source/printf.o
+ .text.PutUnsignedInt
+                0x00000000      0x102 ./platform/source/printf.o
+ .text.PutSignedInt
+                0x00000000      0x1a0 ./platform/source/printf.o
+ .text.PutHexa  0x00000000      0x154 ./platform/source/printf.o
+ .text.vsnprintf
+                0x00000000      0x304 ./platform/source/printf.o
+ .rodata.vsnprintf
+                0x00000000       0x84 ./platform/source/printf.o
+ .text.snprintf
+                0x00000000       0x60 ./platform/source/printf.o
+ .text.vsprintf
+                0x00000000       0x38 ./platform/source/printf.o
+ .rodata        0x00000000       0x24 ./platform/source/printf.o
+ .text.vfprintf
+                0x00000000       0xb2 ./platform/source/printf.o
+ .text.vprintf  0x00000000       0x38 ./platform/source/printf.o
+ .text.fprintf  0x00000000       0x5a ./platform/source/printf.o
+ .text.printf   0x00000000       0x54 ./platform/source/printf.o
+ .text.sprintf  0x00000000       0x5a ./platform/source/printf.o
+ .text.puts     0x00000000       0x4e ./platform/source/printf.o
+ .text.fputc    0x00000000       0x58 ./platform/source/printf.o
+ .text.fputs    0x00000000       0x64 ./platform/source/printf.o
+ .debug_info    0x00000000      0xcfd ./platform/source/printf.o
+ .debug_abbrev  0x00000000      0x2c6 ./platform/source/printf.o
+ .debug_aranges
+                0x00000000       0xa0 ./platform/source/printf.o
+ .debug_rnglists
+                0x00000000       0x78 ./platform/source/printf.o
+ .debug_macro   0x00000000      0x157 ./platform/source/printf.o
+ .debug_macro   0x00000000      0x7ea ./platform/source/printf.o
+ .debug_macro   0x00000000       0x22 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x68 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x20 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x94 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x3b ./platform/source/printf.o
+ .debug_macro   0x00000000       0x34 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x16 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x57 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x9e ./platform/source/printf.o
+ .debug_macro   0x00000000      0x364 ./platform/source/printf.o
+ .debug_macro   0x00000000      0x112 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x10 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x16 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x4a ./platform/source/printf.o
+ .debug_macro   0x00000000       0x34 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x10 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x58 ./platform/source/printf.o
+ .debug_macro   0x00000000      0x1de ./platform/source/printf.o
+ .debug_macro   0x00000000       0x16 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x16 ./platform/source/printf.o
+ .debug_macro   0x00000000      0x170 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x4c ./platform/source/printf.o
+ .debug_macro   0x00000000       0x1c ./platform/source/printf.o
+ .debug_macro   0x00000000      0x103 ./platform/source/printf.o
+ .debug_macro   0x00000000       0x6a ./platform/source/printf.o
+ .debug_macro   0x00000000      0x1df ./platform/source/printf.o
+ .debug_macro   0x00000000     0x72af ./platform/source/printf.o
+ .debug_macro   0x00000000       0x34 ./platform/source/printf.o
+ .debug_line    0x00000000      0x91e ./platform/source/printf.o
+ .debug_str     0x00000000    0x26ce4 ./platform/source/printf.o
+ .debug_line_str
+                0x00000000      0x2fe ./platform/source/printf.o
+ .comment       0x00000000       0x13 ./platform/source/printf.o
+ .note.GNU-stack
+                0x00000000        0x0 ./platform/source/printf.o
+ .debug_frame   0x00000000      0x2bc ./platform/source/printf.o
+ .riscv.attributes
+                0x00000000       0x3d ./platform/source/printf.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/retarget.o
+ .text          0x00000000        0x0 ./platform/source/retarget.o
+ .data          0x00000000        0x0 ./platform/source/retarget.o
+ .bss           0x00000000        0x0 ./platform/source/retarget.o
+ .text.retarget_init
+                0x00000000       0xe8 ./platform/source/retarget.o
+ .text.retarget_get_char
+                0x00000000       0x30 ./platform/source/retarget.o
+ .text.retarget_put_char
+                0x00000000       0x34 ./platform/source/retarget.o
+ .rodata        0x00000000        0xc ./platform/source/retarget.o
+ .debug_info    0x00000000     0x328b ./platform/source/retarget.o
+ .debug_abbrev  0x00000000      0x19d ./platform/source/retarget.o
+ .debug_aranges
+                0x00000000       0x30 ./platform/source/retarget.o
+ .debug_rnglists
+                0x00000000       0x20 ./platform/source/retarget.o
+ .debug_macro   0x00000000       0x86 ./platform/source/retarget.o
+ .debug_macro   0x00000000      0x7ea ./platform/source/retarget.o
+ .debug_macro   0x00000000       0x1c ./platform/source/retarget.o
+ .debug_macro   0x00000000       0x22 ./platform/source/retarget.o
+ .debug_macro   0x00000000       0x8e ./platform/source/retarget.o
+ .debug_macro   0x00000000       0x51 ./platform/source/retarget.o
+ .debug_macro   0x00000000      0x103 ./platform/source/retarget.o
+ .debug_macro   0x00000000       0x6a ./platform/source/retarget.o
+ .debug_macro   0x00000000      0x1df ./platform/source/retarget.o
+ .debug_macro   0x00000000     0x72af ./platform/source/retarget.o
+ .debug_macro   0x00000000       0x34 ./platform/source/retarget.o
+ .debug_line    0x00000000      0x247 ./platform/source/retarget.o
+ .debug_str     0x00000000    0x2439b ./platform/source/retarget.o
+ .debug_line_str
+                0x00000000      0x296 ./platform/source/retarget.o
+ .comment       0x00000000       0x13 ./platform/source/retarget.o
+ .note.GNU-stack
+                0x00000000        0x0 ./platform/source/retarget.o
+ .debug_frame   0x00000000       0x88 ./platform/source/retarget.o
+ .riscv.attributes
+                0x00000000       0x3d ./platform/source/retarget.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .group         0x00000000        0xc ./platform/source/riscv-irq.o
+ .text          0x00000000        0x0 ./platform/source/riscv-irq.o
+ .data          0x00000000        0x0 ./platform/source/riscv-irq.o
+ .bss           0x00000000        0x0 ./platform/source/riscv-irq.o
+ .text.csr_set_bits_mstatus
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .text.csr_clr_bits_mstatus
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .text.csr_write_mtvec
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .text.csr_set_bits_mie
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .text.csr_clr_bits_mie
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .text.csr_read_mcause
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .bss.riscv_handler_map
+                0x00000000       0x30 ./platform/source/riscv-irq.o
+ .text.riscv_irq_init
+                0x00000000       0x38 ./platform/source/riscv-irq.o
+ .text.riscv_irq_enable
+                0x00000000       0x2c ./platform/source/riscv-irq.o
+ .text.riscv_irq_disable
+                0x00000000       0x2c ./platform/source/riscv-irq.o
+ .text.riscv_irq_set_handler
+                0x00000000       0x34 ./platform/source/riscv-irq.o
+ .text.riscv_irq_global_enable
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .text.riscv_irq_global_disable
+                0x00000000       0x20 ./platform/source/riscv-irq.o
+ .text.irq_entry
+                0x00000000      0x124 ./platform/source/riscv-irq.o
+ .rodata.irq_entry
+                0x00000000       0x24 ./platform/source/riscv-irq.o
+ .debug_info    0x00000000      0x328 ./platform/source/riscv-irq.o
+ .debug_abbrev  0x00000000      0x1aa ./platform/source/riscv-irq.o
+ .debug_aranges
+                0x00000000       0x80 ./platform/source/riscv-irq.o
+ .debug_rnglists
+                0x00000000       0x5c ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000       0x8d ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000      0x7ea ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000       0x22 ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000       0x8e ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000       0x51 ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000      0x103 ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000       0x6a ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000      0x1df ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000     0x72c7 ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000       0xd0 ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000       0x10 ./platform/source/riscv-irq.o
+ .debug_macro   0x00000000      0x8fb ./platform/source/riscv-irq.o
+ .debug_line    0x00000000      0x2e5 ./platform/source/riscv-irq.o
+ .debug_str     0x00000000    0x26a65 ./platform/source/riscv-irq.o
+ .debug_line_str
+                0x00000000      0x2ad ./platform/source/riscv-irq.o
+ .comment       0x00000000       0x13 ./platform/source/riscv-irq.o
+ .note.GNU-stack
+                0x00000000        0x0 ./platform/source/riscv-irq.o
+ .debug_frame   0x00000000      0x2ac ./platform/source/riscv-irq.o
+ .riscv.attributes
+                0x00000000       0x41 ./platform/source/riscv-irq.o
+ .text          0x00000000        0x0 ./platform/source/startup_k1921vg015.o
+ .data          0x00000000        0x0 ./platform/source/startup_k1921vg015.o
+ .bss           0x00000000        0x0 ./platform/source/startup_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/sys_init.o
+ .text          0x00000000        0x0 ./platform/source/sys_init.o
+ .data          0x00000000        0x0 ./platform/source/sys_init.o
+ .bss           0x00000000        0x0 ./platform/source/sys_init.o
+ .debug_macro   0x00000000      0x7ea ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x22 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x68 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x20 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x94 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x3b ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x34 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x57 ./platform/source/sys_init.o
+ .debug_macro   0x00000000      0x364 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x16 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x4a ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x34 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x10 ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x58 ./platform/source/sys_init.o
+ .debug_macro   0x00000000      0x1de ./platform/source/sys_init.o
+ .debug_macro   0x00000000       0x6a ./platform/source/sys_init.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./platform/source/system_k1921vg015.o
+ .text          0x00000000        0x0 ./platform/source/system_k1921vg015.o
+ .data          0x00000000        0x0 ./platform/source/system_k1921vg015.o
+ .bss           0x00000000        0x0 ./platform/source/system_k1921vg015.o
+ .text.InterruptDisable
+                0x00000000       0x46 ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000      0x7ea ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000       0x22 ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000       0x8e ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000       0x51 ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000      0x103 ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000       0x6a ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000      0x1df ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000       0x1c ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000       0x34 ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000     0x72c7 ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00000000       0xd0 ./platform/source/system_k1921vg015.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .group         0x00000000        0xc ./app/main.o
+ .text          0x00000000        0x0 ./app/main.o
+ .data          0x00000000        0x0 ./app/main.o
+ .bss           0x00000000        0x0 ./app/main.o
+ .bss.checkParser
+                0x00000000        0xa ./app/main.o
+ .sbss.timeout_counter
+                0x00000000        0x4 ./app/main.o
+ .sbss.window_2
+                0x00000000        0x1 ./app/main.o
+ .sbss.window_3
+                0x00000000        0x1 ./app/main.o
+ .debug_macro   0x00000000      0x7ea ./app/main.o
+ .debug_macro   0x00000000       0x1c ./app/main.o
+ .debug_macro   0x00000000       0x22 ./app/main.o
+ .debug_macro   0x00000000       0x8e ./app/main.o
+ .debug_macro   0x00000000       0x51 ./app/main.o
+ .debug_macro   0x00000000      0x103 ./app/main.o
+ .debug_macro   0x00000000       0x6a ./app/main.o
+ .debug_macro   0x00000000      0x1df ./app/main.o
+ .debug_macro   0x00000000     0x72af ./app/main.o
+ .debug_macro   0x00000000       0x1c ./app/main.o
+ .debug_macro   0x00000000       0x34 ./app/main.o
+ .debug_macro   0x00000000      0x10c ./app/main.o
+ .debug_macro   0x00000000       0x6a ./app/main.o
+ .debug_macro   0x00000000       0x25 ./app/main.o
+ .debug_macro   0x00000000       0x20 ./app/main.o
+ .debug_macro   0x00000000       0x3b ./app/main.o
+ .debug_macro   0x00000000       0x34 ./app/main.o
+ .debug_macro   0x00000000      0x190 ./app/main.o
+ .debug_macro   0x00000000      0x364 ./app/main.o
+ .debug_macro   0x00000000       0x16 ./app/main.o
+ .debug_macro   0x00000000       0x4a ./app/main.o
+ .debug_macro   0x00000000       0x34 ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x58 ./app/main.o
+ .debug_macro   0x00000000      0x1de ./app/main.o
+ .debug_macro   0x00000000       0x10 ./app/main.o
+ .debug_macro   0x00000000       0x3c ./app/main.o
+ .data          0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+ .eh_frame      0x00000000       0x28 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+ .data          0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+ .bss           0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x80000000         0x00100000         xrw
+RAM0             0x40000000         0x00040000         xrw
+RAM1             0x10000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./platform/source/mtimer.o
+LOAD ./platform/source/plic.o
+LOAD ./platform/source/printf.o
+LOAD ./platform/source/retarget.o
+LOAD ./platform/source/riscv-irq.o
+LOAD ./platform/source/startup_k1921vg015.o
+LOAD ./platform/source/sys_init.o
+LOAD ./platform/source/system_k1921vg015.o
+LOAD ./app/main.o
+LOAD C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a
+LOAD C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a
+LOAD C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a
+START GROUP
+LOAD C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a
+LOAD C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libgloss.a
+END GROUP
+LOAD C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a
+                0x00000800                        STACK_SIZE = 0x800
+                0x00000800                        STACK_SIZE = DEFINED (STACK_SIZE)?STACK_SIZE:0x800
+
+.text.startup   0x80000000      0x1f0
+ *(.startup.entry .startup.*)
+ .startup.entry
+                0x80000000       0xa8 ./platform/source/startup_k1921vg015.o
+                0x80000000                _start
+                0x8000008c                _hart_halt
+                0x8000009c                exit
+                0x800000a0                abort
+                0x800000a4                app_init
+                0x800000b0                        . = ALIGN (0x10)
+ *fill*         0x800000a8        0x8 
+ *(.init.rodata .init.rodata.*)
+                0x800000b0                        . = ALIGN (0x10)
+ *(.init.data .init.data.*)
+                0x800000b0                        . = ALIGN (0x10)
+ *(.init.text .init.text.*)
+ .init.text     0x800000b0      0x136 ./platform/source/sys_init.o
+                0x800000b0                plf_init_noreloc
+                0x800000c2                plf_init_generic
+                0x800000c2                plf_init
+                0x800001f0                        . = ALIGN (0x10)
+ *fill*         0x800001e6        0xa 
+                0x80000000                        __TEXT_INIT_START__ = LOADADDR (.text.startup)
+                0x000001f0                        __TEXT_INIT_SIZE__ = SIZEOF (.text.startup)
+
+.text.crt       0x80000200      0x184
+ *(.text.crt*)
+ .text.crt.trap_entry
+                0x80000200      0x184 ./platform/source/startup_k1921vg015.o
+                0x80000200                trap_entry
+
+.text           0x80000384     0x354c
+                [!provide]                        PROVIDE (__TEXT_START__ = .)
+ *(.text .text.*)
+ .text.PLIC_SetIrqHandler
+                0x80000384       0x54 ./platform/source/plic.o
+                0x80000384                PLIC_SetIrqHandler
+ .text.PLIC_SetPriority
+                0x800003d8       0x2e ./platform/source/plic.o
+                0x800003d8                PLIC_SetPriority
+ .text.PLIC_IntEnable
+                0x80000406       0x8c ./platform/source/plic.o
+                0x80000406                PLIC_IntEnable
+ .text.PLIC_ClaimIrq
+                0x80000492       0x38 ./platform/source/plic.o
+                0x80000492                PLIC_ClaimIrq
+ .text.PLIC_ClaimComplete
+                0x800004ca       0x44 ./platform/source/plic.o
+                0x800004ca                PLIC_ClaimComplete
+ .text.PLIC_SetThreshold
+                0x8000050e       0x44 ./platform/source/plic.o
+                0x8000050e                PLIC_SetThreshold
+ .text.PLIC_MachHandler
+                0x80000552       0x4a ./platform/source/plic.o
+                0x80000552                PLIC_MachHandler
+ .text.trap_handler
+                0x8000059c       0x4e ./platform/source/plic.o
+                0x8000059c                trap_handler
+ .text.SystemCoreClockUpdate
+                0x800005ea      0x51c ./platform/source/system_k1921vg015.o
+                0x800005ea                SystemCoreClockUpdate
+ .text.ClkInit  0x80000b06      0x176 ./platform/source/system_k1921vg015.o
+                0x80000b06                ClkInit
+ .text.InterruptEnable
+                0x80000c7c       0x54 ./platform/source/system_k1921vg015.o
+                0x80000c7c                InterruptEnable
+ .text.SystemInit
+                0x80000cd0       0x14 ./platform/source/system_k1921vg015.o
+                0x80000cd0                SystemInit
+ .text.main     0x80000ce4      0x24e ./app/main.o
+                0x80000ce4                main
+ .text.Delay_ms
+                0x80000f32       0x30 ./app/main.o
+                0x80000f32                Delay_ms
+ .text.TMR32_init
+                0x80000f62       0xd4 ./app/main.o
+                0x80000f62                TMR32_init
+ .text.TMR32_IRQHandler
+                0x80001036       0x4c ./app/main.o
+                0x80001036                TMR32_IRQHandler
+ .text.TMR1_init
+                0x80001082       0x9a ./app/main.o
+                0x80001082                TMR1_init
+ .text.TMR1_IRQHandler
+                0x8000111c      0x256 ./app/main.o
+                0x8000111c                TMR1_IRQHandler
+ .text.GPIO_init
+                0x80001372      0x138 ./app/main.o
+                0x80001372                GPIO_init
+ .text.GPIO_IRQHandler
+                0x800014aa      0x446 ./app/main.o
+                0x800014aa                GPIO_IRQHandler
+ .text.UART2_init
+                0x800018f0      0x18e ./app/main.o
+                0x800018f0                UART2_init
+ .text.UART2_IRQHandler
+                0x80001a7e       0x68 ./app/main.o
+                0x80001a7e                UART2_IRQHandler
+ .text.SPI0_init
+                0x80001ae6      0x16c ./app/main.o
+                0x80001ae6                SPI0_init
+ .text.DMA_GLOBAL_init
+                0x80001c52      0x378 ./app/main.o
+                0x80001c52                DMA_GLOBAL_init
+ .text.DMA_CH_13_IRQHandler
+                0x80001fca      0x224 ./app/main.o
+                0x80001fca                DMA_CH_13_IRQHandler
+ .text.DMA_CH_10_IRQHandler
+                0x800021ee       0x36 ./app/main.o
+                0x800021ee                DMA_CH_10_IRQHandler
+ .text.valid_addres
+                0x80002224       0x52 ./app/main.o
+                0x80002224                valid_addres
+ .text.get_cmd_len
+                0x80002276       0x68 ./app/main.o
+                0x80002276                get_cmd_len
+ .text.parserByte
+                0x800022de      0x252 ./app/main.o
+                0x800022de                parserByte
+ .text.redrawWindow1
+                0x80002530      0x1f0 ./app/main.o
+                0x80002530                redrawWindow1
+ .text.ledOFF   0x80002720       0x5c ./app/main.o
+                0x80002720                ledOFF
+ .text.displayFull
+                0x8000277c       0x52 ./app/main.o
+                0x8000277c                displayFull
+ .text.displayClear
+                0x800027ce       0x22 ./app/main.o
+                0x800027ce                displayClear
+ .text.UART2_TX
+                0x800027f0       0xae ./app/main.o
+                0x800027f0                UART2_TX
+ .text.SPI0_send
+                0x8000289e       0x3c ./app/main.o
+                0x8000289e                SPI0_send
+ .text.OLED_send_command
+                0x800028da       0x3e ./app/main.o
+                0x800028da                OLED_send_command
+ .text.OLED_send_data
+                0x80002918       0x3e ./app/main.o
+                0x80002918                OLED_send_data
+ .text.OLED_Init
+                0x80002956      0x104 ./app/main.o
+                0x80002956                OLED_Init
+ .text.FindBitmap
+                0x80002a5a       0x78 ./app/main.o
+                0x80002a5a                FindBitmap
+ .text.OLED_full
+                0x80002ad2       0x62 ./app/main.o
+                0x80002ad2                OLED_full
+ .text.OLED_clear
+                0x80002b34       0x62 ./app/main.o
+                0x80002b34                OLED_clear
+ .text.OLED_SetCursor
+                0x80002b96       0x58 ./app/main.o
+                0x80002b96                OLED_SetCursor
+ .text.Picture_display
+                0x80002bee       0x72 ./app/main.o
+                0x80002bee                Picture_display
+ .text.DMA_Print_Row
+                0x80002c60       0xd8 ./app/main.o
+                0x80002c60                DMA_Print_Row
+ .text.DMA_Collect_Row
+                0x80002d38      0x28e ./app/main.o
+                0x80002d38                DMA_Collect_Row
+ .text.Draw_Cursor
+                0x80002fc6       0x9c ./app/main.o
+                0x80002fc6                Draw_Cursor
+ .text.Inversion_Square
+                0x80003062       0xfe ./app/main.o
+                0x80003062                Inversion_Square
+ .text.getIndex
+                0x80003160       0x40 ./app/main.o
+                0x80003160                getIndex
+ .text.FLASH_Window_init
+                0x800031a0      0x1f6 ./app/main.o
+                0x800031a0                FLASH_Window_init
+ .text          0x80003396      0x3a6 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+                0x80003396                __udivdi3
+ .text          0x8000373c       0xa8 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memset.o)
+                0x8000373c                memset
+ .text.memcpy   0x800037e4       0xec C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+                0x800037e4                memcpy
+                [!provide]                        PROVIDE (__TEXT_END__ = .)
+
+.init_array     0x40000000        0x0 load address 0x800038d0
+ *(SORT_BY_NAME(.init_array*))
+
+.fini_array     0x40000000        0x0 load address 0x800038d0
+ *(SORT_BY_NAME(.fini_array*))
+
+.tdata          0x800038d0        0x0
+                [!provide]                        PROVIDE (_tls_data = .)
+                0x800038d0                        PROVIDE (_tdata_start = .)
+ *(.tdata .tdata.*)
+                [!provide]                        PROVIDE (_tdata_end = .)
+
+.tbss           0x800038d0        0x0
+                [!provide]                        PROVIDE (_tbss_start = .)
+ *(.tbss .tbss.*)
+                0x800038d0                        . = ALIGN (0x4)
+                0x800038d0                        PROVIDE (_tbss_end = .)
+                0x00000000                        __TLS_SIZE__ = (((_tbss_end - _tdata_start) + 0xf) & 0xfffffffffffffff0)
+
+.rodata         0x800038d0     0x37b4
+ *(.rodata)
+ .rodata        0x800038d0        0xc ./app/main.o
+ .rodata        0x800038dc      0x100 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+                0x800038dc                __clz_tab
+ *(.rodata.*)
+ .rodata.trap_handler
+                0x800039dc       0x30 ./platform/source/plic.o
+ .rodata.my_dict
+                0x80003a0c     0x1464 ./app/main.o
+                0x80003a0c                my_dict
+ .rodata.picture_tab
+                0x80004e70     0x2000 ./app/main.o
+                0x80004e70                picture_tab
+ .rodata.parserByte
+                0x80006e70       0x14 ./app/main.o
+ .rodata.white.1
+                0x80006e84      0x100 ./app/main.o
+ .rodata.black.0
+                0x80006f84      0x100 ./app/main.o
+ *(.gnu.linkonce.r.*)
+
+.srodata        0x80007084       0x11
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata*)
+ .srodata.validAddr
+                0x80007084        0x3 ./app/main.o
+                0x80007084                validAddr
+ *fill*         0x80007087        0x1 
+ .srodata.validCMD
+                0x80007088        0x5 ./app/main.o
+                0x80007088                validCMD
+ *fill*         0x8000708d        0x3 
+ .srodata.cmd_data_lens
+                0x80007090        0x5 ./app/main.o
+                0x80007090                cmd_data_lens
+
+.rela.dyn       0x80007098        0x0
+ .rela.startup.entry
+                0x80007098        0x0 ./platform/source/plic.o
+ .rela.text.crt.trap_entry
+                0x80007098        0x0 ./platform/source/plic.o
+ .rela.init.text
+                0x80007098        0x0 ./platform/source/plic.o
+
+.sdata          0x40000000        0xa load address 0x80007098
+                0x40000000                        __SDATA_BEGIN__ = .
+ *(.sdata .sdata.* .sdata2.* .gnu.linkonce.s.*)
+ .sdata.current_window
+                0x40000000        0x1 ./app/main.o
+                0x40000000                current_window
+ .sdata.current_window1_1
+                0x40000001        0x1 ./app/main.o
+                0x40000001                current_window1_1
+ .sdata.current_window1_2
+                0x40000002        0x1 ./app/main.o
+                0x40000002                current_window1_2
+ .sdata.cursor_y
+                0x40000003        0x1 ./app/main.o
+                0x40000003                cursor_y
+ .sdata.window1_12
+                0x40000004        0x6 ./app/main.o
+                0x40000004                window1_12
+
+.data           0x4000000c      0x22c load address 0x800070a4
+                0x4000000c                        __DATA_BEGIN__ = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x4000000c      0x100 ./platform/source/plic.o
+                0x4000000c                mach_plic_handler
+                0x4000008c                supervisor_plic_handler
+ .data.window_1
+                0x4000010c       0x21 ./app/main.o
+                0x4000010c                window_1
+ *fill*         0x4000012d        0x3 
+ .data.table    0x40000130      0x108 ./app/main.o
+                0x40000130                table
+                0x40000238                        _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x800070a4                        PROVIDE (__data_source_start = LOADADDR (.data))
+                0x4000000c                        PROVIDE (__data_target_start = ADDR (.data))
+                0x40000238                        PROVIDE (__data_target_end = (ADDR (.data) + SIZEOF (.data)))
+                0x80007098                        PROVIDE (__sdata_source_start = LOADADDR (.sdata))
+                0x40000000                        PROVIDE (__sdata_target_start = ADDR (.sdata))
+                0x4000000a                        PROVIDE (__sdata_target_end = (ADDR (.sdata) + SIZEOF (.sdata)))
+                0x800038d0                        PROVIDE (__init_array_source_start = LOADADDR (.init_array))
+                0x40000000                        PROVIDE (__init_array_target_start = ADDR (.init_array))
+                0x40000000                        PROVIDE (__init_array_target_end = (ADDR (.init_array) + SIZEOF (.init_array)))
+                0x800038d0                        PROVIDE (__fini_array_source_start = LOADADDR (.fini_array))
+                0x40000000                        PROVIDE (__fini_array_target_start = ADDR (.fini_array))
+                0x40000000                        PROVIDE (__fini_array_target_end = (ADDR (.fini_array) + SIZEOF (.fini_array)))
+
+.sbss           0x40000238       0x33 load address 0x800072d0
+                0x40000238                        PROVIDE (__bss_start = .)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss.SystemCoreClock
+                0x40000238        0x4 ./platform/source/system_k1921vg015.o
+                0x40000238                SystemCoreClock
+ .sbss.SystemPll0Clock
+                0x4000023c        0x4 ./platform/source/system_k1921vg015.o
+                0x4000023c                SystemPll0Clock
+ .sbss.SystemPll1Clock
+                0x40000240        0x4 ./platform/source/system_k1921vg015.o
+                0x40000240                SystemPll1Clock
+ .sbss.USBClock
+                0x40000244        0x4 ./platform/source/system_k1921vg015.o
+                0x40000244                USBClock
+ .sbss.parser_state
+                0x40000248        0x1 ./app/main.o
+                0x40000248                parser_state
+ .sbss.sum_calc
+                0x40000249        0x1 ./app/main.o
+                0x40000249                sum_calc
+ .sbss.expected_len_data
+                0x4000024a        0x1 ./app/main.o
+                0x4000024a                expected_len_data
+ .sbss.real_len_data
+                0x4000024b        0x1 ./app/main.o
+                0x4000024b                real_len_data
+ .sbss.start_for_DMA
+                0x4000024c        0x1 ./app/main.o
+                0x4000024c                start_for_DMA
+ .sbss.start_for_parser
+                0x4000024d        0x1 ./app/main.o
+                0x4000024d                start_for_parser
+ .sbss.start_write_func
+                0x4000024e        0x1 ./app/main.o
+                0x4000024e                start_write_func
+ .sbss.start_exe_func
+                0x4000024f        0x1 ./app/main.o
+                0x4000024f                start_exe_func
+ .sbss.SysTimer_ms
+                0x40000250        0x4 ./app/main.o
+                0x40000250                SysTimer_ms
+ .sbss.Delay_counter_ms
+                0x40000254        0x4 ./app/main.o
+                0x40000254                Delay_counter_ms
+ .sbss.gpio_btn1
+                0x40000258        0x4 ./app/main.o
+                0x40000258                gpio_btn1
+ .sbss.gpio_btn2
+                0x4000025c        0x4 ./app/main.o
+                0x4000025c                gpio_btn2
+ .sbss.gpio_btn3
+                0x40000260        0x4 ./app/main.o
+                0x40000260                gpio_btn3
+ .sbss.gpio_btn4
+                0x40000264        0x4 ./app/main.o
+                0x40000264                gpio_btn4
+ .sbss.isEditing
+                0x40000268        0x1 ./app/main.o
+                0x40000268                isEditing
+ .sbss.need_window1
+                0x40000269        0x1 ./app/main.o
+                0x40000269                need_window1
+ .sbss.cursor_x
+                0x4000026a        0x1 ./app/main.o
+                0x4000026a                cursor_x
+ *(.scommon)
+
+.bss            0x40000400      0x96c load address 0x800072d0
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss.DMA_PING  0x40000400        0xa ./app/main.o
+                0x40000400                DMA_PING
+ *fill*         0x4000040a        0x2 
+ .bss.DMA_PONG  0x4000040c        0xa ./app/main.o
+                0x4000040c                DMA_PONG
+ *fill*         0x40000416      0x3ea 
+ .bss.DMA_CONFIGDATA
+                0x40000800      0x400 ./app/main.o
+                0x40000800                DMA_CONFIGDATA
+ .bss.parser_buf
+                0x40000c00      0x100 ./app/main.o
+                0x40000c00                parser_buf
+ .bss.packet    0x40000d00       0x6c ./app/main.o
+                0x40000d00                packet
+ *(COMMON)
+                0x40000d6c                        . = ALIGN (0x4)
+                0x40000d6c                        __BSS_END__ = .
+                0x40000d6c                        PROVIDE (__bss_end = .)
+                [!provide]                        PROVIDE (_end = .)
+                [!provide]                        PROVIDE (__end = .)
+                0x40000780                        __global_pointer$ = MIN ((__DATA_BEGIN__ + 0x780), MAX ((__SDATA_BEGIN__ + 0x780), (__BSS_END__ - 0x780)))
+
+.stack          0x4003f800      0x800
+                0x4003f800                        PROVIDE (__STACK_START__ = .)
+                0x40040000                        . = (. + STACK_SIZE)
+ *fill*         0x4003f800      0x800 
+                [!provide]                        PROVIDE (__C_STACK_TOP__ = .)
+                [!provide]                        PROVIDE (__STACK_END__ = .)
+                0x40040000                        PROVIDE (__TLS0_BASE__ = .)
+                0x40000d70                        _heap_start = ALIGN (__bss_end, 0x10)
+                0x4003f800                        _heap_end = DEFINED (HEAP_FIXED_AFTER_BSS)?MIN (ALIGN (__STACK_START__, 0x10), (_heap_start + HEAP_FIXED_AFTER_BSS)):ALIGN (__STACK_START__, 0x10)
+
+/DISCARD/
+ *(.init.text.plf_init_relocate)
+ *(.eh_frame .eh_frame.*)
+OUTPUT(C_new_project.elf elf32-littleriscv)
+
+.debug_info     0x00000000     0xb72c
+ .debug_info    0x00000000      0x567 ./platform/source/plic.o
+ .debug_info    0x00000567       0x31 ./platform/source/startup_k1921vg015.o
+ .debug_info    0x00000598      0x1ea ./platform/source/sys_init.o
+ .debug_info    0x00000782     0x4126 ./platform/source/system_k1921vg015.o
+ .debug_info    0x000048a8     0x6e84 ./app/main.o
+
+.debug_abbrev   0x00000000      0x8fc
+ .debug_abbrev  0x00000000      0x1ae ./platform/source/plic.o
+ .debug_abbrev  0x000001ae       0x24 ./platform/source/startup_k1921vg015.o
+ .debug_abbrev  0x000001d2       0xe7 ./platform/source/sys_init.o
+ .debug_abbrev  0x000002b9      0x254 ./platform/source/system_k1921vg015.o
+ .debug_abbrev  0x0000050d      0x3ef ./app/main.o
+
+.debug_aranges  0x00000000      0x238
+ .debug_aranges
+                0x00000000       0x68 ./platform/source/plic.o
+ .debug_aranges
+                0x00000068       0x28 ./platform/source/startup_k1921vg015.o
+ .debug_aranges
+                0x00000090       0x28 ./platform/source/sys_init.o
+ .debug_aranges
+                0x000000b8       0x40 ./platform/source/system_k1921vg015.o
+ .debug_aranges
+                0x000000f8      0x140 ./app/main.o
+
+.debug_rnglists
+                0x00000000      0x1bd
+ .debug_rnglists
+                0x00000000       0x4b ./platform/source/plic.o
+ .debug_rnglists
+                0x0000004b       0x1b ./platform/source/startup_k1921vg015.o
+ .debug_rnglists
+                0x00000066       0x1a ./platform/source/sys_init.o
+ .debug_rnglists
+                0x00000080       0x2d ./platform/source/system_k1921vg015.o
+ .debug_rnglists
+                0x000000ad      0x110 ./app/main.o
+
+.debug_macro    0x00000000     0x8777
+ .debug_macro   0x00000000       0xf2 ./platform/source/plic.o
+ .debug_macro   0x000000f2       0x1c ./platform/source/plic.o
+ .debug_macro   0x0000010e       0x34 ./platform/source/plic.o
+ .debug_macro   0x00000142     0x72c7 ./platform/source/plic.o
+ .debug_macro   0x00007409       0xd0 ./platform/source/plic.o
+ .debug_macro   0x000074d9      0x1bf ./platform/source/sys_init.o
+ .debug_macro   0x00007698      0x190 ./platform/source/sys_init.o
+ .debug_macro   0x00007828      0x23c ./platform/source/sys_init.o
+ .debug_macro   0x00007a64       0x10 ./platform/source/sys_init.o
+ .debug_macro   0x00007a74       0x3c ./platform/source/sys_init.o
+ .debug_macro   0x00007ab0       0x16 ./platform/source/sys_init.o
+ .debug_macro   0x00007ac6       0x10 ./platform/source/sys_init.o
+ .debug_macro   0x00007ad6       0x1c ./platform/source/sys_init.o
+ .debug_macro   0x00007af2       0x52 ./platform/source/sys_init.o
+ .debug_macro   0x00007b44       0x22 ./platform/source/sys_init.o
+ .debug_macro   0x00007b66       0x10 ./platform/source/sys_init.o
+ .debug_macro   0x00007b76       0x52 ./platform/source/sys_init.o
+ .debug_macro   0x00007bc8       0xcf ./platform/source/sys_init.o
+ .debug_macro   0x00007c97       0x1c ./platform/source/sys_init.o
+ .debug_macro   0x00007cb3       0x3d ./platform/source/sys_init.o
+ .debug_macro   0x00007cf0      0x51a ./platform/source/sys_init.o
+ .debug_macro   0x0000820a       0x25 ./platform/source/sys_init.o
+ .debug_macro   0x0000822f       0xaf ./platform/source/system_k1921vg015.o
+ .debug_macro   0x000082de      0x10c ./platform/source/system_k1921vg015.o
+ .debug_macro   0x000083ea       0x6a ./platform/source/system_k1921vg015.o
+ .debug_macro   0x00008454      0x1a5 ./app/main.o
+ .debug_macro   0x000085f9       0xd6 ./app/main.o
+ .debug_macro   0x000086cf       0x3a ./app/main.o
+ .debug_macro   0x00008709       0x6e ./app/main.o
+
+.debug_line     0x00000000     0x3360
+ .debug_line    0x00000000      0x3c3 ./platform/source/plic.o
+ .debug_line    0x000003c3      0x163 ./platform/source/startup_k1921vg015.o
+ .debug_line    0x00000526      0x1b9 ./platform/source/sys_init.o
+ .debug_line    0x000006df      0x6af ./platform/source/system_k1921vg015.o
+ .debug_line    0x00000d8e     0x25d2 ./app/main.o
+
+.debug_str      0x00000000    0x2ba75
+ .debug_str     0x00000000    0x2ba75 ./platform/source/plic.o
+                              0x23daf (size before relaxing)
+ .debug_str     0x0002ba75       0x85 ./platform/source/startup_k1921vg015.o
+ .debug_str     0x0002ba75     0x7b7d ./platform/source/sys_init.o
+ .debug_str     0x0002ba75    0x25a73 ./platform/source/system_k1921vg015.o
+ .debug_str     0x0002ba75    0x2921b ./app/main.o
+
+.debug_line_str
+                0x00000000      0x38d
+ .debug_line_str
+                0x00000000      0x38d ./platform/source/plic.o
+                                0x298 (size before relaxing)
+ .debug_line_str
+                0x0000038d       0x6e ./platform/source/startup_k1921vg015.o
+ .debug_line_str
+                0x0000038d      0x370 ./platform/source/sys_init.o
+ .debug_line_str
+                0x0000038d      0x2da ./platform/source/system_k1921vg015.o
+ .debug_line_str
+                0x0000038d      0x32a ./app/main.o
+
+.comment        0x00000000       0x12
+ .comment       0x00000000       0x12 ./platform/source/plic.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012       0x13 ./platform/source/sys_init.o
+ .comment       0x00000012       0x13 ./platform/source/system_k1921vg015.o
+ .comment       0x00000012       0x13 ./app/main.o
+ .comment       0x00000012       0x13 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+ .comment       0x00000012       0x13 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+ .comment       0x00000012       0x13 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 ./platform/source/plic.o
+ .note.GNU-stack
+                0x00000000        0x0 ./platform/source/sys_init.o
+ .note.GNU-stack
+                0x00000000        0x0 ./platform/source/system_k1921vg015.o
+ .note.GNU-stack
+                0x00000000        0x0 ./app/main.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+
+.riscv.attributes
+                0x00000000       0x41
+ .riscv.attributes
+                0x00000000       0x41 ./platform/source/plic.o
+ .riscv.attributes
+                0x00000041       0x3f ./platform/source/startup_k1921vg015.o
+ .riscv.attributes
+                0x00000080       0x3d ./platform/source/sys_init.o
+ .riscv.attributes
+                0x000000bd       0x41 ./platform/source/system_k1921vg015.o
+ .riscv.attributes
+                0x000000fe       0x3d ./app/main.o
+ .riscv.attributes
+                0x0000013b       0x3d C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_udivdi3.o)
+ .riscv.attributes
+                0x00000178       0x3d C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/rv32imfc_zicsr/ilp32f\libgcc.a(_clz.o)
+ .riscv.attributes
+                0x000001b5       0x3b C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memset.o)
+ .riscv.attributes
+                0x000001f0       0x3d C:/Users/Gutzakk/Desktop/Work/sc-dt/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/14.2.0/../../../../riscv64-unknown-elf/lib/rv32imfc_zicsr/ilp32f\libc.a(libc_a-memcpy.o)
+
+.debug_frame    0x00000000      0x8e4
+ .debug_frame   0x00000000      0x1a0 ./platform/source/plic.o
+ .debug_frame   0x000001a0       0x60 ./platform/source/sys_init.o
+ .debug_frame   0x00000200      0x104 ./platform/source/system_k1921vg015.o
+ .debug_frame   0x00000304      0x5e0 ./app/main.o
